@@ -2,9 +2,13 @@
 
 **An AI-agent blockchain platform. Chat with your chain. Talk to your coins.**
 
-fouder: Nico Ramos | Computer Science and Econ Student at VIU 
+Founder: Nico Ramos | Computer Science and Economics Student at VIU
+
 [ChainMind Repository](https://github.com/itsnicoramos/ChainMind)
-website link coming soon
+
+Website coming soon.
+
+
 ---
 
 ## What is ChainMind?
